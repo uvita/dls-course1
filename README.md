@@ -28,3 +28,5 @@ Install needed Python libraries
 `pip install h5py`
 
 `pip install scipy`
+
+`pip install scikit-learn`
