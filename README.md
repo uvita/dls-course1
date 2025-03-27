@@ -31,4 +31,4 @@ Install needed Python libraries
 
 `pip install scikit-learn`
 
-`pip install nbconver` #to avoid syncing cell's output - See https://gist.github.com/33eyes/431e3d432f73371509d176d0dfb95b6e
+`pip install nbconvert` #to avoid syncing cell's output - See https://gist.github.com/33eyes/431e3d432f73371509d176d0dfb95b6e
